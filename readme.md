@@ -2,6 +2,10 @@
 
 本程序可以自动发包shnu*体锻打卡*小程序（仅支持奉贤校区），自动跑步打卡，一天内可以打卡多次(但不建议)。
 
+## CLI版本
+另外一个人写的虽然是命令行终端版本但是用户提示和功能上比我这个版本更完善。
+https://github.com/NightmareDreemurr/SHNU-RuningPunch-CLI
+
 ## 依赖安装
 
 请确保有python 3.8以及以上python环境，系统环境为windows。
