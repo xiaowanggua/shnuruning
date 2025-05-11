@@ -1,3 +1,6 @@
+# 该版本已弃用停止维护
+请使用[https://github.com/xiaowanggua/shnurunningApp](https://github.com/xiaowanggua/shnurunningApp)这个新版本！
+
 ## 介绍
 
 本程序可以自动发包shnu*体锻打卡*小程序（仅支持奉贤校区），自动跑步打卡，一天内可以打卡多次(但不建议)。
